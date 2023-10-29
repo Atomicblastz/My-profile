@@ -11,5 +11,5 @@ My major is computer engineering (international) program :technologist:
 Programming Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,discord,figma,git,github,matlab,mysql,mongodb,php,ps,pr,react,unity,vscode)](https://skillicons.dev)
 
-[![Most Used Language](https://img.shields.io/badge/Most%20Used%20Language-C-yellow)](https://your-repo-link)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
 
