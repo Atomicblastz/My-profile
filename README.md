@@ -6,7 +6,7 @@ I'm 20 years old. I'm currently a third year senior student :v:
 My major is computer engineering (international) program :technologist:
 
 - You can contact me through this email: badgest03@gmail.com
-- I'm interested in **Listening to podcast :radio:, Watching series :desktop_computer:, Learning new programming language :desktop_computer:, Writing articles :memo:, and Playing video games :video_game:**
+- I'm interested in **Listening to podcast :radio:, Watching series :desktop_computer:, Learning new programming language :desktop_computer:, Writing articles :memo:, and Financial business :money_with_wings:**
 
 **Programming Languages and Tools**
 
