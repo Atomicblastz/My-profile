@@ -10,6 +10,6 @@ My major is computer engineering (international) program :technologist:
 
 **Programming Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,discord,figma,git,github,matlab,mysql,mongodb,php,ps,pr,react,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,nodejs,discord,figma,git,github,matlab,mysql,mongodb,php,ps,pr,react,unity,vscode)](https://skillicons.dev)
 
 
