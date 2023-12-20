@@ -1,4 +1,4 @@
-# My Profile :trophy:
+# Hi! :wave: :trophy:
 
 My name is Jirawat  Puangraya, Currently studying at KMUTT
 
