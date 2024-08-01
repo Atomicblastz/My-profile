@@ -7,7 +7,7 @@
 My major is computer engineering (international) program at KMUTT:technologist:</p>
 
 - 📧 You can contact me via this email: badgest03@gmail.com
-- 🌱 I’m currently learning C++, C#, and Golang programming languages
+- 🌱 I’m currently learning C++, and C# programming languages and Angular, GraphQL, and NestJS frameworks
 
 - 📝 I regularly write articles on [https://medium.com/@badgest03](https://medium.com/@badgest03)
 
