@@ -23,5 +23,5 @@ My major is computer engineering (international) program at KMUTT:technologist:<
 
 **Programming Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,js,ts,nodejs,expressjs,discord,figma,git,github,matlab,mysql,mongodb,postgresql,php,ps,pr,blender,react,graphql,prisma,nextjs,tailwindcss,nestjs,linux,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,nodejs,expressjs,discord,figma,git,github,matlab,mysql,mongodb,postgresql,php,ps,pr,blender,react,graphql,prisma,nextjs,tailwindcss,nestjs,linux,unity,vscode)](https://skillicons.dev)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=api&logoColor=white)
