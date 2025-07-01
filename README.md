@@ -11,7 +11,9 @@ My major is computer engineering (international) program at KMUTT:technologist:<
 
 - 📝 I regularly write articles on [https://medium.com/@badgest03](https://medium.com/@badgest03)
 
-- 📄 My resume and get to know more about my working experiences [(https://drive.google.com/file/d/1jQLg8JP9FpyiIT9DRFTDluSPBog_fbt1/view?usp=sharing)](https://drive.google.com/file/d/1jQLg8JP9FpyiIT9DRFTDluSPBog_fbt1/view?usp=sharing)
+- 📂 [My Resume Folder (Google Drive)](https://drive.google.com/drive/folders/1j6uuTB131xYiu8-v3FjttIXVbxmJCzlZ?usp=drive_link) — contains:
+  - 📄 [Resume (Direct Link)]((https://drive.google.com/file/d/1m6fO4HwqCTczl6A1n-a9fVaEysV8TSc_/view?usp=drive_link))
+  - 📄 [TOEIC Score]((https://drive.google.com/file/d/1U4fpLT8uogrVuLm09t2jWq0n-Jwuo6nG/view?usp=drive_link))
 
 - I'm interested in **Listening to podcast :radio:, Watching series :desktop_computer:, Learning new programming language :desktop_computer:, Writing articles :memo:, and Financial business :money_with_wings:**
 
